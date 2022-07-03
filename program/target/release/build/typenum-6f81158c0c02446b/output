@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/berkingurcan/crowd-fund/program/target/release/build/typenum-6f81158c0c02446b/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/berkingurcan/crowd-fund/program/target/release/build/typenum-6f81158c0c02446b/out/op.rs
